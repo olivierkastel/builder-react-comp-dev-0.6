@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hourliert/builder-react-comp.git"
+    "url": "git+https://github.com/olivierkastel/builder-react-comp-dev-0.6.git"
   },
   "keywords": [
     "builder",
@@ -14,12 +14,12 @@
     "react",
     "component"
   ],
-  "author": "Thomas Hourlier <hourliert@gmail.com> (https://github.com/hourliert)",
+  "author": "Olivier Kastel <olivier.kastel@gmail.com> (https://github.com/olivierkastel)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hourliert/builder-react-comp/issues"
+    "url": "https://github.com/olivierkastel/builder-react-comp-dev-0.6/issues"
   },
-  "homepage": "https://github.com/hourliert/builder-react-comp#readme",
+  "homepage": "https://github.com/olivierkastel/builder-react-comp-dev-0.6",
   "dependencies": {
     "babel-eslint": "^5.0.0",
     "babel-jest": "^9.0.3",
